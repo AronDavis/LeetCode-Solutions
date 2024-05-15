@@ -1,4 +1,4 @@
-﻿namespace LeetCodeSolutions._1_two_sum
+﻿namespace Solutions._0001_two_sum
 {
     public class Solution
     {
