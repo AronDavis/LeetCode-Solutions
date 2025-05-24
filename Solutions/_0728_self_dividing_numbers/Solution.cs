@@ -32,11 +32,6 @@
                 current /= 10;
             }
 
-            if (number % current != 0)
-            {
-                return false;
-            }
-
             return true;
         }
 
